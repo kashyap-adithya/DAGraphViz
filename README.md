@@ -38,4 +38,4 @@ dag_graph.generate()
 
 ```
 
-This script will create an PNG like below DAGraphViz/output.png
+This script will create an PNG like below ![DAG Output](output.png)
